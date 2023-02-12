@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Jatin, the Front end developer. Started with open source around Jan 2021</div>  
+### <div align="center">I'm Jatin, the Front end developer. Started with open source around Jan 2022</div>  
   
 
 - 🔭 I’m currently working on a music player using Python GUI framework to add some non-familiar functionalities like looping a specific part in song and several others  
