@@ -7,10 +7,12 @@
 ### <div align="center">I'm Jatin, the Front end developer. Started with open source around Jan 2022</div>  
   
 
-- 🔭 I’m currently working on a music player using Python GUI framework to add some non-familiar functionalities like looping a specific part in song and several others  
+- 🔭 I’m currently working on a music player using Python GUI framework to add some non-familiar functionalities like looping a specific part in a song and several others
+  
+- 🔭 Also one project is much close to being completed which will let the user download playlist of songs from different music-listening sites to their system
   
 
-- 🌱 I’m currently learning DSA and Javascript  
+- 🌱 I’m currently learning DSA and Javascript 
   
 
 - ❓ Ask me about anything related to GUI development, Advanced CSS, and related technologies  
@@ -85,7 +87,7 @@
 <a href="https://dev.to/https://dev.to/jatin_gera" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jatin-gera-635973170/" target="_blank">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jatin-gera-27aug/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/https://www.instagram.com/jatingera2004/" target="_blank">
